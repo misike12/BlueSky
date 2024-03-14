@@ -1,3 +1,6 @@
+[Better
+](https://github.com/FrannDzs/BlueSky)
+
 # BlueSky
  BlueSky Launcher Source Code
  
